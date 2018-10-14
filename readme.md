@@ -1,3 +1,7 @@
+This is a simple crud photo gallery web app developed with laravel. Here we can create new album and delete the album. And we can add new photos to that partcular album and delete that photo from that album.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
